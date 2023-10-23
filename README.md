@@ -1,6 +1,6 @@
 - 👋 Hi, I’m raghav
 - 👀 I’m interested in Backend Development, golang, Concurrency
-- 🌱 I’m currently learning Golang design patterns
+- 🌱 I’m currently working on gofast single repo for all cache algorithms in go (https://github.com/raghavgh/gofast)
 - 💞️ I’m looking to collaborate on go backend repos
 - 📫 How to reach me Linkedin - https://www.linkedin.com/in/raghavpaliwal/
 
