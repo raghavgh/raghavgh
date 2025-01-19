@@ -1,6 +1,6 @@
 - 👋 Hi, I’m raghav
 - 👀 I’m interested in Backend Development, golang, Concurrency
-- 🌱 I’m currently working on gofast single repo for all cache algorithms in go (https://github.com/raghavgh/gofast)
+- 🌱 I’m currently working on TinyStoreDB repo, a learning project to understand db from implementation perspective.
 - 💞️ I’m looking to collaborate on go backend repos
 - 📫 How to reach me Linkedin - https://www.linkedin.com/in/raghavpaliwal/
 
